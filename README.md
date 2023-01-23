@@ -27,5 +27,5 @@
      - I’m looking for a job as frontend developer for building web applications.
      - Exploring Technical Content Writing.
      - In my free time, I solve tasks on codewars.com and read tech articles.
-     - mailbox: saoamah@gmail.com
+     - my mailbox: saoamah@gmail.com
    
