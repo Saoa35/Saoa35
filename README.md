@@ -25,8 +25,8 @@
       👨‍💻: About Me :
      I am a Junior FrontEnd Developer from Ukraine.
      - I’m looking for a job as frontend developer for building web applications.
-     - Exploring Technical Content Writing.
-     - In my free time, I solve tasks on codewars.com and read tech articles.
+     - Сonstantly learning new technologies and development methods.
+     - I like to solve tasks on codewars.com and read tech articles.
      - my mailbox: saoamah@gmail.com
    
 ---
