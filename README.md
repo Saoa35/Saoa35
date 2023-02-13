@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="120"/>
   
   <div id="badges">
-    <a href="https://www.linkedin.com/in/oleksandr-makharadze-4649b7223">
+    <a href="https://www.linkedin.com/in/oleksandr-makharadze">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://www.facebook.com/aliko.makharadze">
