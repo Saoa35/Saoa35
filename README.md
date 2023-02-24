@@ -1,6 +1,8 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="120"/>
+<!--   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="120"/> -->
+  
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500" height="400"/>
   
   <div id="badges">
     <a href="https://www.linkedin.com/in/oleksandr-makharadze">
@@ -17,9 +19,9 @@
   </h1>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500" height="400"/>
-</div>
+<!-- <div align="center"> -->
+<!--   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500" height="400"/> -->
+<!-- </div> -->
 
  ---
       👨‍💻: About Me :
