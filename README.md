@@ -24,12 +24,8 @@
 <!-- </div> -->
 
  ---
-                                            👨‍💻: About Me :
-                                             I am a beginner front-end developer, 
-                                                  - currently actively looking for a job,
-                                                  - ready to consider any offers in my specialty, 
-                                                  - will be glad to contact you.
-   
+  👨‍💻  About me :
+                 I'm a beginner front-end developer, looking for a job in a growing company with a creative and friendly team. I want to learn new technologies and web development techniques and consolidate my acquired skills. I am ready to consider any offers in my specialty, will be glad to contact you :)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -53,7 +49,10 @@
 
 ### :fire: My Stats :
 
+<div align="center">
+  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Saoa35&theme=soft-green&border_radius=5)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saoa35&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
