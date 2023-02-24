@@ -24,12 +24,11 @@
 <!-- </div> -->
 
  ---
-      👨‍💻: About Me :
-     I am a Junior FrontEnd Developer from Ukraine.
-     - I’m looking for a job as frontend developer for building web applications.
-     - Сonstantly learning new technologies and development methods.
-     - I like to solve tasks on codewars.com and read tech articles.
-     - my mailbox: saoamah@gmail.com
+                                    👨‍💻: About Me :
+                                         I am a beginner front-end developer, 
+                                              - currently actively looking for a job,
+                                              - ready to consider any offers in my specialty, 
+                                              - will be glad to contact you.
    
 ---
 
