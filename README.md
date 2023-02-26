@@ -8,16 +8,29 @@
     <a href="https://www.linkedin.com/in/oleksandr-makharadze">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://www.facebook.com/aliko.makharadze">
+<!--     <a href="https://www.facebook.com/aliko.makharadze">
       <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+    </a> -->
+    <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    </a>
+    <a href="https://t.me/Alexandr_Makharadze">
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    </a>
+    <a href="https://api.whatsapp.com/send?phone=380666784893">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
     </a>
   </div>
 
-  <h1>
-    hey there
+  <hr>
+  
+  <h3>
+    Hi!!! My name is Oleksandr, nice to meet you :) 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
+  </h3>
 </div>
+
+
 
 <!-- <div align="center"> -->
 <!--   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500" height="400"/> -->
