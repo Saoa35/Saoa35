@@ -23,7 +23,7 @@
 <!--   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500" height="400"/> -->
 <!-- </div> -->
 
- ---
+ 
   👨‍💻  About me : 
                  I'm a beginner front-end developer, looking for a job in a growing company with a creative and friendly team. I want to learn new technologies and web                  development techniques and consolidate my acquired skills. I am ready to consider any offers in my specialty, will be glad to contact you :)
                  
