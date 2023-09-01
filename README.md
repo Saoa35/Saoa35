@@ -38,7 +38,7 @@
 
  
   👨‍💻  About me : 
-                 I'm a beginner front-end developer, looking for a job in a growing company with a creative and friendly team.  I am ready to consider any offers in my specialty, will be glad to contact you :)
+                 I am a front-end developer, I enjoy learning new technologies and creating new interesting applications. 
                  
  ---
 
